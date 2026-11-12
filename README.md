@@ -10,6 +10,7 @@ This repository contains my personal implementation of exact inference and parti
 * **Performance Evaluation:** Built a custom evaluation script to quantify the trade-off between execution time and localization accuracy under high-noise conditions.
 
 ## 📊 Performance & Benchmarking
+
 *Tested on a standard 31x31 grid (100 steps). Note: The sensors in this simulation have a very high noise level (Gaussian STD = 20.0), which significantly impacts accuracy.*
 
 | Method | Average Time (ms/step) | Average Error (grids) | Speedup |
@@ -27,4 +28,4 @@ This repository contains my personal implementation of exact inference and parti
 * `evaluate.py`: Custom script to benchmark time and accuracy.
 
 ## 👤 Author
-[YOUR_GITHUB_USERNAME](https://github.com/LeonWei826)
+[LeonWei826](https://github.com/LeonWei826)
