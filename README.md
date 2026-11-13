@@ -29,3 +29,7 @@ This repository contains my personal implementation of exact inference and parti
 
 ## 👤 Author
 [LeonWei826](https://github.com/LeonWei826)
+
+## 🧪 Independent Algorithm Benchmark
+I built a custom 1D circular grid simulator to test the scalability of my algorithms.
+👉 **[View the full Benchmark Report and Visualization here](BENCHMARK_REPORT.md)**
