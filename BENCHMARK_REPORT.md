@@ -20,7 +20,7 @@ To evaluate the performance (execution time) and accuracy (localization error) o
 
 ## 🖼️ Visualization
 *(Assuming you upload the image to the repo)*
-![3D Circular Grid Tracking](circular_track_3d.png)
+![evaluate](evaluate.png)
 *This 3D visualization shows the true trajectory (green), noisy observations (gray dots), exact inference (blue), and particle filter with 50 particles (red) on the 1000-cell circular track.*
 
 ## 💡 Engineering Takeaway
