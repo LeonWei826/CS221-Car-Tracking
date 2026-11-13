@@ -19,7 +19,6 @@ To evaluate the performance (execution time) and accuracy (localization error) o
 * In a **1000-cell** grid, 50 particles are too sparse. The particle filter fails to track the car, and the error spikes significantly. 200 particles are required to maintain tracking accuracy.
 
 ## 🖼️ Visualization
-*(Assuming you upload the image to the repo)*
 ![visualize00](visualize00.png)
 *This 3D visualization shows the true trajectory (green), noisy observations (gray dots), exact inference (blue), and particle filter with 50 particles (red) on the 1000-cell circular track.*
 
