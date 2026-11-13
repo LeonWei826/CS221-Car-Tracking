@@ -20,7 +20,7 @@ To evaluate the performance (execution time) and accuracy (localization error) o
 
 ## 🖼️ Visualization
 *(Assuming you upload the image to the repo)*
-![evaluate](evaluate.png)
+![visualize00](visualize00.png)
 *This 3D visualization shows the true trajectory (green), noisy observations (gray dots), exact inference (blue), and particle filter with 50 particles (red) on the 1000-cell circular track.*
 
 ## 💡 Engineering Takeaway
